@@ -1,2 +1,2 @@
-# Assignment2 - GLNG-KS08-09
+# Assignment2 - 09
 Valdy Ramadhan
